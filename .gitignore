@@ -4,3 +4,5 @@
 ClipVideo/clipvideo/output
 *__pycache__
 *.spec
+.env
+/output
